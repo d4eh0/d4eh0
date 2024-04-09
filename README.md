@@ -1,5 +1,9 @@
 ## Introduction
+
+### 💬 About Me ..  
 안녕하세요~ 영남대학교 컴퓨터공학과 3학년에 재학중인 박대형입니다.  
+
+### 🌱 I’m currently learning ...  
 C++와 JavaScript를 공부하고 있습니다~~
 
 <!--
