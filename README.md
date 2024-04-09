@@ -1,6 +1,6 @@
 ## Introduction
-안녕하세요~
-
+안녕하세요~ 영남대학교 컴퓨터공학과 3학년에 재학중인 박대형입니다.
+C++와 JavaScript를 공부하고 있습니다~~
 
 <!--
 **d4eh0/d4eh0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
