@@ -1,10 +1,13 @@
 # Introduction
 
 ### 💬 About Me ..  
--  
+-  영남대학교 컴퓨터공학과 4학년에 재학 중입니다.
+-  42gyeongsan에서 C 프로그래밍과 Linux 시스템을 바탕으로 소프트웨어 개발 역량을 키우고 있습니다.
 
 ### 🌱 I’m currently learning ...  
-- 
+- C / Linux
+- React
+- Computer Science (Algorithms, Networks, Operating Systems, and more)
 
 <!--
 **d4eh0/d4eh0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
