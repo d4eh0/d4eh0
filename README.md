@@ -2,11 +2,12 @@
 
 ### 💬 About Me ..  
 -  영남대학교 컴퓨터공학과 4학년에 재학 중입니다.
--  42gyeongsan에서 C 프로그래밍과 Linux 시스템을 바탕으로 소프트웨어 개발 역량을 키우고 있습니다.
+-  25.06 클라우드에 관심이 많아. AWS, NCP를 학습 중입니다. 백엔드 도메인에 대한 지식도 필요하다고 느껴 병행중입니다.
+-  42경산 소프트웨어 역량을 기르고 있습니다.
 
 ### 🌱 I’m currently learning ...  
 - C / Linux
-- React
+- AWS, NCP, BE(SpringBoot, MySQL, JPA ...)
 - Computer Science (Algorithms, Networks, Operating Systems, and more)
 
 <!--
