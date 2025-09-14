@@ -1,14 +1,20 @@
 # Introduction
 
 ### 💬 About Me ..  
--  영남대학교 컴퓨터공학과 4학년에 재학 중입니다.
--  25.06 클라우드에 관심이 많아. AWS, NCP를 학습 중입니다. 백엔드 도메인에 대한 지식도 필요하다고 느껴 병행중입니다.
--  42경산 소프트웨어 역량을 기르고 있습니다.
-
+- 영남대학교 **컴퓨터공학과 4학년** (2026.02 졸업 예정)
+- 클라우드/인프라 엔지니어를 목표로
+- 현재는 **Spring Boot, MySQL, JPA** 중심의 웹 도메인 학습과  
+  **AWS** 기반 클라우드 인프라 실습을 병행하고 있습니다.
+  
 ### 🌱 I’m currently learning ...  
 - C / Linux
 - AWS, NCP, BE(SpringBoot, MySQL, JPA ...)
 - Computer Science (Algorithms, Networks, Operating Systems, and more)
+
+### 🎯 Career Goal
+- Short-term: 웹 애플리케이션 프로젝트를 클라우드에 배포하며 **운영 경험** 쌓기
+- Mid-term: **Infra / DevOps / SRE / SA** 관련 인턴 및 주니어 포지션 도전
+- Long-term: **Cloud Infrastructure Engineer / Solutions Architect**
 
 <!--
 **d4eh0/d4eh0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
