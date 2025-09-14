@@ -5,16 +5,11 @@
 - 클라우드/인프라 엔지니어를 목표로
 - 현재는 **Spring Boot, MySQL, JPA** 중심의 웹 도메인 학습과  
   **AWS** 기반 클라우드 인프라 실습을 병행하고 있습니다.
-  
-### 🌱 I’m currently learning ...  
-- C / Linux
-- AWS, NCP, BE(SpringBoot, MySQL, JPA ...)
-- Computer Science (Algorithms, Networks, Operating Systems, and more)
 
-### 🎯 Career Goal
-- Short-term: 웹 애플리케이션 프로젝트를 클라우드에 배포하며 **운영 경험** 쌓기
-- Mid-term: **Infra / DevOps / SRE / SA** 관련 인턴 및 주니어 포지션 도전
-- Long-term: **Cloud Infrastructure Engineer / Solutions Architect**
+### 🎯 Career Goal ...
+- **Short-term**: 웹 애플리케이션 프로젝트를 클라우드에 배포하며 **운영 경험** 쌓기
+- **Mid-term**: **Infra / DevOps / SRE / SA** 관련 인턴 및 주니어 포지션 도전
+- **Long-term**: **Cloud Infrastructure Engineer / Solutions Architect**
 
 <!--
 **d4eh0/d4eh0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
