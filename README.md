@@ -11,6 +11,8 @@
 - **Mid-term**: Infra / DevOps / SRE / SA 관련 인턴 및 주니어 포지션 도전
 - **Long-term**: Cloud Infrastructure Engineer / Solutions Architect
 
+### 🏫 42 Cursus Progress
+
 [![d4eh0's 42 stats](https://badge.mediaplus.ma/darkblue/daepark)](https://github.com/oakoudad/badge42)
 
 <!--
