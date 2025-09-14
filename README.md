@@ -7,8 +7,8 @@
 ## 💬 About Me 
 
 - 영남대학교 **컴퓨터공학과 4학년** (2026.02 졸업 예정)
-- **클라우드/인프라 엔지니어**를 목표로
-- 현재는 **Spring Boot, MySQL, JPA** 중심의 웹 도메인 학습과  
+- **클라우드/인프라 엔지니어**를 목표로,
+- 현재는 **Spring Boot, MySQL, JPA** 중심의 웹 백엔드 도메인 학습과  
   **AWS** 기반 클라우드 인프라 실습을 병행하고 있습니다.
   
 <br>
@@ -80,19 +80,3 @@
 # 📫 Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your_id) [![Velog](https://img.shields.io/badge/Velog-20C997?style=flat&logo=velog&logoColor=white)](https://velog.io/@d4eh0/posts) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/d4eh0) [![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white)](https://discord.com/users/374367151231860746) [![Email](https://img.shields.io/badge/Email-000000?style=flat&logo=maildotru&logoColor=white)](mailto:eogud3332@naver.com)
-
-<a href="https://linkedin.com/in/your_id" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://velog.io/@d4eh0/posts" target="_blank">
-  <img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=velog&logoColor=white"/>
-</a>
-<a href="https://instagram.com/d4eh0" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/>
-</a>
-<a href="https://discord.com/users/374367151231860746" target="_blank">
-  <img src="https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white"/>
-</a>
-<a href="mailto:eogud3332@naver.com" target="_blank">
-  <img src="https://img.shields.io/badge/Email-000000?style=flat&logo=maildotru&logoColor=white"/>
-</a>
