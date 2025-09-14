@@ -10,11 +10,11 @@
 
 ## 🎯 Career Goal
 
-- **Short-term**
+- **Short-term** (2025 하반기)
   - 웹 애플리케이션 프로젝트를 클라우드에 배포하며 **운영 경험** 쌓기
-- **Mid-term**
+- **Mid-term** (2026 상반기)
   - Infra / DevOps / SRE / SA 관련 인턴 및 주니어 포지션 도전
-- **Long-term**
+- **Long-term** (2026 ~)
   - Cloud Infrastructure Engineer / Solutions Architect
 
 
