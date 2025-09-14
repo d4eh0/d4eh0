@@ -11,7 +11,7 @@
 - **Mid-term**: Infra / DevOps / SRE / SA 관련 인턴 및 주니어 포지션 도전
 - **Long-term**: Cloud Infrastructure Engineer / Solutions Architect
 
-[![d4eh0's 42 stats](https://badge.mediaplus.ma/darkblue/d4eh0)](https://github.com/oakoudad/badge42)
+[![d4eh0's 42 stats](https://badge.mediaplus.ma/darkblue/daepark)](https://github.com/oakoudad/badge42)
 
 <!--
 **d4eh0/d4eh0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
