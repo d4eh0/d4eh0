@@ -15,7 +15,7 @@
 - **Long-term**: Cloud Infrastructure Engineer / Solutions Architect
 
 
-## 🏫 42 Cursus Progress
+## 🌱 My 42 Journey
 
 [![d4eh0's 42 stats](https://badge.mediaplus.ma/darkblue/daepark)](https://github.com/oakoudad/badge42)
 
