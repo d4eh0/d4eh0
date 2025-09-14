@@ -1,4 +1,5 @@
 
+
 # Introduction
 
 
@@ -67,15 +68,18 @@
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white) ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white) ![Amazon CloudWatch](https://img.shields.io/badge/Amazon%20CloudWatch-FF4F8B?style=flat&logo=amazoncloudwatch&logoColor=white)
 
 
-
+<!-- 
+<br>
 
 ## 🌱 My 42 Journey
-
 [![d4eh0's 42 stats](https://badge.mediaplus.ma/darkblue/daepark)](https://github.com/oakoudad/badge42)
-
-
+-->
 
 <br>
 
-# ☎️ Contact
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your_id) [![Velog](https://img.shields.io/badge/Velog-20C997?style=flat&logo=velog&logoColor=white)](https://velog.io/@d4eh0/posts) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/d4eh0) [![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white)](https://discord.gg/your_invite_code) [![Email](https://img.shields.io/badge/Email-000000?style=flat&logo=maildotru&logoColor=white)](mailto:eogud3332@naver.com)
+# 📫 Contact
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your_id) 
+[![Velog](https://img.shields.io/badge/Velog-20C997?style=flat&logo=velog&logoColor=white)](https://velog.io/@d4eh0/posts) 
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/d4eh0) 
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white)](https://discord.gg/your_invite_code) 
+[![Email](https://img.shields.io/badge/Email-000000?style=flat&logo=maildotru&logoColor=white)](mailto:eogud3332@naver.com)
