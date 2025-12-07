@@ -72,8 +72,6 @@
 <br>
 
 # 📫 Contact
-
-[![Velog](https://img.shields.io/badge/Velog-20C997?style=flat&logo=velog&logoColor=white)](https://velog.io/@d4eh0)
-[![Email](https://img.shields.io/badge/Email-000000?style=flat&logo=maildotru&logoColor=white)](mailto:eogud3332@naver.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/대형-박-040779384/)
-
+[![Velog](https://img.shields.io/badge/Velog-0F6F5F?style=flat&logo=velog&logoColor=white)](https://velog.io/@d4eh0)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-084A86?style=flat&logo=inspire&logoColor=white)](https://www.linkedin.com/in/대형-박-040779384/)
+[![Email](https://img.shields.io/badge/Email-3A3A3A?style=flat&logo=gmail&logoColor=white)](mailto:eogud3332@naver.com)
