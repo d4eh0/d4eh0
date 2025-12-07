@@ -73,8 +73,7 @@
 
 # 📫 Contact
 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)
-![Velog](https://img.shields.io/badge/Velog-20C997?style=flat&logo=velog&logoColor=white)
-![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)
-![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white)
-![Email](https://img.shields.io/badge/Email-000000?style=flat&logo=maildotru&logoColor=white)
+[![Velog](https://img.shields.io/badge/Velog-20C997?style=flat&logo=velog&logoColor=white)](https://velog.io/@d4eh0)
+[![Email](https://img.shields.io/badge/Email-000000?style=flat&logo=maildotru&logoColor=white)](mailto:eogud3332@naver.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/대형-박-040779384/)
+
