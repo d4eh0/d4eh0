@@ -1,6 +1,13 @@
 ## 👋 About Me
 
-- 클라우드/인프라에 관심이 많습니다.
+- 클라우드/인프라 엔지니어를 목표로 하는 취업 준비생입니다.
+
+노트북 한 대로 Ubuntu 홈서버를 구축하고, Docker Compose로 출석 관리 서비스를 배포했습니다.
+Prometheus와 Grafana로 모니터링 환경을 구성하고, k6로 부하테스트를 돌려
+동시 500명에서 병목이 발생하는 지점을 직접 데이터로 확인했습니다.
+
+"왜 클라우드가 필요한가"를 개념이 아닌 경험으로 이해하고 싶었습니다.
+현재 AWS 마이그레이션을 진행 중입니다.
 
 ## 🛠️ Skills
 
@@ -46,27 +53,7 @@
 
 <br>
 
-<!--
-
-### 🚀 Next Goals
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white)
-
--->
-
-<!--
-<br>
-
-## 🌱 My 42 Journey
-[d4eh0's 42 stats](https://badge.mediaplus.ma/darkblue/daepark)
-
--->
-
+# ✍️ 기술 블로그
 
 <br>
 
