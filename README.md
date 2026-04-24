@@ -11,6 +11,8 @@ Prometheus와 Grafana로 모니터링 환경을 구성하고, k6로 부하테스
 
 ## 🛠️ Skills
 
+Cloud AWS (EC2, S3, ECS, RDS, ALB, CloudFront, ECR — 학습 중) Naver Cloud Platform (NCP) — 자격증 보유 DevOps & Infra Docker / Docker Compose Nginx (리버스 프록시, 로드밸런싱) Prometheus / Grafana k6 (부하테스트) Linux (Ubuntu) — 서버 운영, UFW, SSH, systemctl Backend Java / Spring Boot JPA / Hibernate Frontend React / Vite Tailwind CSS Database MySQL(SQLD) — 자격증 보유 Tools & etc Git / GitHub Slack Jira
+
 <div align="center">
 <table>
 <tr>
