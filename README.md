@@ -53,7 +53,7 @@ Prometheus와 Grafana로 모니터링 환경을 구성하고, k6로 부하테스
 
 <br>
 
-# ✍️ 기술 블로그
+# 📝 Featured Posts
 
 <br>
 
