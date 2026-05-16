@@ -1,65 +1,41 @@
-## 👋 About Me
-
-- 클라우드/인프라 엔지니어를 목표로 하는 취업 준비생입니다.
-
-노트북 한 대로 Ubuntu 홈서버를 구축하고, Docker Compose로 출석 관리 서비스를 배포했습니다.
-Prometheus와 Grafana로 모니터링 환경을 구성하고, k6로 부하테스트를 돌려
-동시 500명에서 병목이 발생하는 지점을 직접 데이터로 확인했습니다.
-
-"왜 클라우드가 필요한가"를 개념이 아닌 경험으로 이해하고 싶었습니다.
-현재 AWS 마이그레이션을 진행 중입니다.
-
-## 🛠️ Skills
-
-Cloud AWS (EC2, S3, ECS, RDS, ALB, CloudFront, ECR — 학습 중) Naver Cloud Platform (NCP) — 자격증 보유 DevOps & Infra Docker / Docker Compose Nginx (리버스 프록시, 로드밸런싱) Prometheus / Grafana k6 (부하테스트) Linux (Ubuntu) — 서버 운영, UFW, SSH, systemctl Backend Java / Spring Boot JPA / Hibernate Frontend React / Vite Tailwind CSS Database MySQL(SQLD) — 자격증 보유 Tools & etc Git / GitHub Slack Jira
-
 <div align="center">
-<table>
-<tr>
-  <td align="center" width="160"><strong>Frontend</strong></td>
-  <td align="center" width="160"><strong>Backend</strong></td>
-  <td align="center" width="160"><strong>Cloud & DevOps</strong></td>
-  <td align="center" width="160"><strong>Collaborate</strong></td>
-</tr>
-<tr>
-  <!-- Frontend -->
-  <td align="center" width="160">
-    <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML"/>
-    <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css&logoColor=white" alt="CSS"/><br>
-    <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React"/><br>
-    <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white" alt="TailwindCSS"/>
-  </td>
-  <!-- Backend -->
-  <td align="center" width="160">
-    <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=coffeescript&logoColor=white" alt="Java"/><br>
-    <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white" alt="SpringBoot"/><br>
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL"/>
-  </td>
-  <!-- Cloud & DevOps-->
-  <td align="center" width="160">
-    <img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=icloud&logoColor=white" /><br>
-    <img src="https://img.shields.io/badge/Naver%20Cloud-03C75A?style=flat&logo=naver&logoColor=white&logoSize=10" /><br>
-    <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white"/>
-  </td>
-  <!-- Collaborate -->
-  <td align="center" width="160">
-    <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white" alt="Jira"/><br>
-    <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black" alt="Swagger"/><br>
-    <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white" alt="Notion"/><br>
-    <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" alt="Figma"/>
-  </td>
 
-</tr>
-</table>
+`클라우드 엔지니어`를 희망합니다.
+
+직접 구축한 `홈서버`로 애플리케이션을 운영하며, 단일 서버의 한계를 몸소 겪고 `AWS 마이그레이션`을 준비 중입니다.
+
+항상 "왜 이 기술을 선택했는가"를 고민하며, `근거 있는 아키텍처 설계`를 지향합니다.
+
+<br>
+
+<img src="https://custom-icon-badges.demolab.com/badge/AWS-CC7A00.svg?logo=aws&logoColor=white&style=flat-square"> <img src="https://img.shields.io/badge/Naver Cloud-027A3A?style=flat-square&logo=naver&logoColor=white"> &nbsp;/&nbsp; <img src="https://img.shields.io/badge/Linux-E8B800?style=flat-square&logo=linux&logoColor=black"> <img src="https://img.shields.io/badge/Docker-1A6E9E?style=flat-square&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/Kubernetes-1E4A8C?style=flat-square&logo=kubernetes&logoColor=white"> &nbsp;/&nbsp; <img src="https://img.shields.io/badge/Terraform-4A2875?style=flat-square&logo=terraform&logoColor=white"> <img src="https://img.shields.io/badge/Prometheus-8C3015?style=flat-square&logo=prometheus&logoColor=white"> <img src="https://img.shields.io/badge/Grafana-8C4A00?style=flat-square&logo=grafana&logoColor=white">
+
 </div>
 
+---
+
+### 🚀 Project
+
+#### 🖥️ CloudAttend | 25.04 ~
+> 대학생 출결 관리 시스템
+- 👨‍💻 Role: 풀스택 개발 및 인프라 설계/운영
+- 🔍 Focus: `홈서버 한계 분석 및 AWS 마이그레이션` · `가용성·보안을 고려한 아키텍처 설계` · `모니터링 파이프라인 구축`
+- 🛠 Tech: <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logoColor=white"> <img src="https://img.shields.io/badge/Docker-1A6E9E?style=flat-square&logoColor=white"> <img src="https://img.shields.io/badge/nginx-1A3A1A?style=flat-square&logoColor=white"> <img src="https://img.shields.io/badge/Prometheus-8C3015?style=flat-square&logoColor=white"> <img src="https://img.shields.io/badge/Grafana-8C4A00?style=flat-square&logoColor=white">
+
+#### 🐝 와글와글 | 25.07 - 25.12
+> 대구·경북 대학생들을 위한 팀 매칭 커뮤니티 서비스
+- 👨‍💻 Role: 백엔드 개발 및 AWS 인프라 구축
+- 🔍 Focus: `과제·스터디 도메인 API 개발` · `Route 53·CloudFront·S3·EC2 기반 아키텍처 설계` · `CI/CD 파이프라인 구축`
+- 🛠 Tech: <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logoColor=white"> <img src="https://img.shields.io/badge/Docker-1A6E9E?style=flat-square&logoColor=white"> <img src="https://img.shields.io/badge/Spring Boot-2D5A1A?style=flat-square&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-1A4A6E?style=flat-square&logoColor=white"> <img src="https://img.shields.io/badge/GitHub Actions-1A1A2E?style=flat-square&logoColor=white">
+
+---
+
+### 📝 Featured Posts
+
 <br>
 
-# 📝 Featured Posts
-
-<br>
-
-# 📫 Contact
+### 📫 Contact
+[![Tistory](https://img.shields.io/badge/Tistory-CC5500?style=flat&logo=tistory&logoColor=white)](https://d4eh0.tistory.com/)
 [![Velog](https://img.shields.io/badge/Velog-0F6F5F?style=flat&logo=velog&logoColor=white)](https://velog.io/@d4eh0)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-084A86?style=flat&logo=inspire&logoColor=white)](https://www.linkedin.com/in/대형-박-040779384/)
 [![Email](https://img.shields.io/badge/Email-3A3A3A?style=flat&logo=gmail&logoColor=white)](mailto:eogud3332@naver.com)
