@@ -1,8 +1,12 @@
+<!--
+<img src="https://capsule-render.vercel.app/api?type=Blur&color=0:00C6FF,100:0072FF&height=250&section=header&text=Hi,%20I%27m%20Dae%20Hyoung&desc=%E2%98%81%EF%B8%8F%20Cloud%20%2F%20%F0%9F%8F%97%EF%B8%8F%20Infra%20Engineer&fontSize=35&descSize=20&fontColor=ffffff&animation=fadeIn&descAlignY=64" />
+-->
+
 <div align="center">
 
-`클라우드 엔지니어`를 희망합니다.
+<img src="https://capsule-render.vercel.app/api?type=Blur&color=0:00C6FF,100:0072FF&height=250&section=header&text=Hi,%20I%27m%20Dae%20Hyoung&desc=%E2%98%81%EF%B8%8F%20Cloud%20Engineer&fontSize=35&descSize=20&fontColor=ffffff&animation=fadeIn&descAlignY=64" />
 
-직접 구축한 `홈서버`로 애플리케이션을 운영하며, 단일 서버의 한계를 몸소 겪고 `AWS 마이그레이션`을 준비 중입니다.
+직접 구축한 `홈서버`로 애플리케이션을 운영하며, 단일 서버의 한계를 직접 겪고 `AWS 마이그레이션` 진행 중입니다.
 
 항상 "왜 이 기술을 선택했는가"를 고민하며, `근거 있는 아키텍처 설계`를 지향합니다.
 
