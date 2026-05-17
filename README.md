@@ -6,10 +6,30 @@
 
   <img src="https://capsule-render.vercel.app/api?type=Blur&color=0:00C6FF,100:0072FF&height=250&section=header&text=Hi,%20I%27m%20Dae%20Hyoung&desc=%E2%98%81%EF%B8%8F%20Cloud%20Engineer&fontSize=35&descSize=20&fontColor=ffffff&animation=fadeIn&descAlignY=64" />
   
-  직접 구축한 `홈서버`로 애플리케이션을 운영하며, 단일 서버의 한계를 직접 겪고 `AWS 마이그레이션` 진행 중입니다.
-  
-  항상 "왜 이 기술을 선택했는가"를 고민하며, `근거 있는 아키텍처 설계`를 지향합니다.
-  
+  직접 구축한 `홈서버`로 애플리케이션을 운영하며, 단일 서버의 한계를 직접 겪고 `AWS 마이그레이션` 을 계획중입니다.
+
+<!--  그 과정을 <a href="https://d4eh0.tistory.com/">
+  <img src="https://img.shields.io/badge/Tech%20Blog-CC5500?style=flat-square&logo=tistory&logoColor=white">
+</a>에 기록하고 있습니다.
+
+그 과정을 <a href="https://d4eh0.tistory.com/">
+  <img src="https://img.shields.io/badge/Tech%20Blog-CC5500?style=for-the-badge&logo=tistory&logoColor=white">
+</a>에 기록하고 있습니다.
+
+그 과정을 <a href="https://d4eh0.tistory.com/">
+  <img src="https://img.shields.io/badge/Tech%20Blog-ffffff?style=flat-square&logo=tistory&logoColor=CC5500&labelColor=ffffff">
+</a>에 기록하고 있습니다. -->
+
+  그 과정을 <a href="https://d4eh0.tistory.com/">
+  <img src="https://img.shields.io/badge/Tech%20Blog-DDDDDD?style=flat-square&logo=tistory&logoColor=CC5500&labelColor=DDDDDD">
+</a>에 기록하고 있습니다.
+
+
+
+
+
+  항상 `"왜 이 기술을 선택했는가"`를 고민하며, `근거 있는 아키텍처 설계`를 지향합니다.
+
   <br>
   
   <img src="https://custom-icon-badges.demolab.com/badge/AWS-CC7A00.svg?logo=aws&logoColor=white&style=flat-square"> <img src="https://img.shields.io/badge/Naver Cloud-027A3A?style=flat-square&logo=naver&logoColor=white"> &nbsp;/&nbsp; <img src="https://img.shields.io/badge/Linux-E8B800?style=flat-square&logo=linux&logoColor=black"> <img src="https://img.shields.io/badge/Docker-1A6E9E?style=flat-square&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/Kubernetes-1E4A8C?style=flat-square&logo=kubernetes&logoColor=white"> &nbsp;/&nbsp; <img src="https://img.shields.io/badge/Terraform-4A2875?style=flat-square&logo=terraform&logoColor=white"> <img src="https://img.shields.io/badge/Prometheus-8C3015?style=flat-square&logo=prometheus&logoColor=white"> <img src="https://img.shields.io/badge/Grafana-8C4A00?style=flat-square&logo=grafana&logoColor=white">
