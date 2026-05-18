@@ -25,9 +25,6 @@
 </a>에 기록하고 있습니다.
 
 
-
-
-
   항상 `"왜 이 기술을 선택했는가"`를 고민하며, `근거 있는 아키텍처 설계`를 지향합니다.
 
   <br>
@@ -36,13 +33,16 @@
 
 </div>
 
+<!------------------------------------------------------------------------------------------------------->
 <br>
 <div align="center">〰〰〰〰〰〰〰〰〰〰〰〰〰〰</div>
 <!------------------------------------------------------------------------------------------------------->
 
 ### 📝 Blog
-- 추가예정
 
+- [홈서버 구축 중간 회고 :: 우분투 설치부터 VU 1000명 Scale-Out에 이르기까지](https://d4eh0.tistory.com/35)
+
+<!------------------------------------------------------------------------------------------------------->
 <br>
 <div align="center">〰〰〰〰〰〰〰〰〰〰〰〰〰〰</div>
 <!------------------------------------------------------------------------------------------------------->
@@ -61,6 +61,7 @@
 - 🔍 Focus: `과제·스터디 도메인 API 개발` · `Route 53·CloudFront·S3·EC2 기반 아키텍처 설계` · `CI/CD 파이프라인 구축`
 - 🛠 Tech: <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logoColor=white"> <img src="https://img.shields.io/badge/Docker-1A6E9E?style=flat-square&logoColor=white"> <img src="https://img.shields.io/badge/Spring Boot-2D5A1A?style=flat-square&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-1A4A6E?style=flat-square&logoColor=white"> <img src="https://img.shields.io/badge/GitHub Actions-1A1A2E?style=flat-square&logoColor=white">
 
+<!------------------------------------------------------------------------------------------------------->
 <br>
 <div align="center">〰〰〰〰〰〰〰〰〰〰〰〰〰〰</div>
 <!------------------------------------------------------------------------------------------------------->
