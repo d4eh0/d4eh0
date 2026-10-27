@@ -2,23 +2,16 @@
 <img src="https://capsule-render.vercel.app/api?type=Blur&color=0:00C6FF,100:0072FF&height=250&section=header&text=Hi,%20I%27m%20Dae%20Hyoung&desc=%E2%98%81%EF%B8%8F%20Cloud%20%2F%20%F0%9F%8F%97%EF%B8%8F%20Infra%20Engineer&fontSize=35&descSize=20&fontColor=ffffff&animation=fadeIn&descAlignY=64" />
 -->
 
+
+
+
+
+<!--
 <div align="center">
 
   <img src="https://capsule-render.vercel.app/api?type=Blur&color=0:00C6FF,100:0072FF&height=250&section=header&text=Hi,%20I%27m%20Dae%20Hyoung&desc=%E2%98%81%EF%B8%8F%20Cloud%20Engineer&fontSize=35&descSize=20&fontColor=ffffff&animation=fadeIn&descAlignY=64" />
   
   직접 구축한 `홈서버`로 애플리케이션을 운영하며, 단일 서버의 한계를 직접 겪고 `AWS 마이그레이션` 을 계획중입니다.
-
-<!--  그 과정을 <a href="https://d4eh0.tistory.com/">
-  <img src="https://img.shields.io/badge/Tech%20Blog-CC5500?style=flat-square&logo=tistory&logoColor=white">
-</a>에 기록하고 있습니다.
-
-그 과정을 <a href="https://d4eh0.tistory.com/">
-  <img src="https://img.shields.io/badge/Tech%20Blog-CC5500?style=for-the-badge&logo=tistory&logoColor=white">
-</a>에 기록하고 있습니다.
-
-그 과정을 <a href="https://d4eh0.tistory.com/">
-  <img src="https://img.shields.io/badge/Tech%20Blog-ffffff?style=flat-square&logo=tistory&logoColor=CC5500&labelColor=ffffff">
-</a>에 기록하고 있습니다. -->
 
   그 과정을 <a href="https://d4eh0.tistory.com/">
   <img src="https://img.shields.io/badge/Tech%20Blog-DDDDDD?style=flat-square&logo=tistory&logoColor=CC5500&labelColor=DDDDDD">
@@ -33,19 +26,18 @@
 
 </div>
 
-<!------------------------------------------------------------------------------------------------------->
 <br>
 <div align="center">〰〰〰〰〰〰〰〰〰〰〰〰〰〰</div>
-<!------------------------------------------------------------------------------------------------------->
+
 
 ### 📝 Blog
 
 - [홈서버 구축 중간 회고 :: 우분투 설치부터 VU 1000명 Scale-Out에 이르기까지](https://d4eh0.tistory.com/35)
 
-<!------------------------------------------------------------------------------------------------------->
+
 <br>
 <div align="center">〰〰〰〰〰〰〰〰〰〰〰〰〰〰</div>
-<!------------------------------------------------------------------------------------------------------->
+
 
 ### 🚀 Project
 
@@ -61,10 +53,10 @@
 - 🔍 Focus: `과제·스터디 도메인 API 개발` · `Route 53·CloudFront·S3·EC2 기반 아키텍처 설계` · `CI/CD 파이프라인 구축`
 - 🛠 Tech: <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logoColor=white"> <img src="https://img.shields.io/badge/Docker-1A6E9E?style=flat-square&logoColor=white"> <img src="https://img.shields.io/badge/Spring Boot-2D5A1A?style=flat-square&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-1A4A6E?style=flat-square&logoColor=white"> <img src="https://img.shields.io/badge/GitHub Actions-1A1A2E?style=flat-square&logoColor=white">
 
-<!------------------------------------------------------------------------------------------------------->
+
 <br>
 <div align="center">〰〰〰〰〰〰〰〰〰〰〰〰〰〰</div>
-<!------------------------------------------------------------------------------------------------------->
+
 
 ### 📫 Contact
 [![Tistory](https://img.shields.io/badge/Tistory-CC5500?style=flat&logo=tistory&logoColor=white)](https://d4eh0.tistory.com/)
@@ -72,3 +64,4 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-084A86?style=flat&logo=inspire&logoColor=white)](https://www.linkedin.com/in/대형-박-040779384/)
 [![Email](https://img.shields.io/badge/Email-3A3A3A?style=flat&logo=gmail&logoColor=white)](mailto:eogud3332@naver.com)
 
+-->
